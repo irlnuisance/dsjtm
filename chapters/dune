@@ -1,0 +1,22 @@
+; Each chapter is a standalone executable
+; Run with: dune exec ./chapter_XX.exe
+; Or interpret: ocaml chapter_XX.ml
+
+(executables
+ (names
+  chapter_01
+  chapter_02
+  chapter_03
+  chapter_04
+  chapter_05
+  chapter_06
+  chapter_07
+  chapter_08
+  chapter_09
+  chapter_10
+  chapter_11
+  chapter_12
+  chapter_13
+  chapter_14
+  chapter_15
+  chapter_16))
